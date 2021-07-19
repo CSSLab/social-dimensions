@@ -59,11 +59,10 @@ class DimenGenerator:
             ~np.diag(np.ones(len(comm_names), dtype=bool))
 
         indices_to_calc = np.nonzero(only_calculate_for)
-        sample_n = 200000
 
         index = []
         directions = []
-        for i in np.random.choice(len(indices_to_calc[0]), min(np.sum(only_calculate_for), sample_n), replace=False):
+        for i in range(0, len(indices_to_calc[0])):
             c1 = indices_to_calc[0][i]
             c2 = indices_to_calc[1][i]
             index.append((comm_names[c1], comm_names[c2]))
