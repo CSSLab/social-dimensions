@@ -16,3 +16,4 @@ Code to reproduce the social dimensions from the 2021 paper "Quantifying social 
 
 ## Example output
 
+See `scores.csv` from the repository for full example output, which this code should reproduce exactly.
