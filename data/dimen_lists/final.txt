@@ -1,0 +1,14 @@
+age
+age_b
+age_neutral
+affluence
+gender
+gender_b
+gender_neutral
+partisan_b
+partisan_b_neutral
+partisan
+partisan_neutral
+edginess
+sociality
+time
