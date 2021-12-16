@@ -26,7 +26,7 @@ See `scores.csv` from the repository for full example output, which this code sh
 
 If you use any data or code from this repository, please cite our paper:
 
-> Waller, I., Anderson, A. Quantifying social organization and political polarization in online platforms. Nature 600, todo-todo (2021). https://doi.org/10.1038/s41586-021-04167-x
+> Waller, I., Anderson, A. Quantifying social organization and political polarization in online platforms. *Nature* 600, 264–268 (2021). https://doi.org/10.1038/s41586-021-04167-x
 
 ## Contact
 
