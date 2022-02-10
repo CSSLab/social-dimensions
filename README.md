@@ -49,6 +49,9 @@ AskReddit,-0.07415413657149496,0.13052107711645367,0.05281928294403579,...
 ...
 ```
 
+### Figure data
+The underlying data for all main text figures from the paper are available in `data/figure_data`.
+
 ## Citation
 
 If you use any data or code from this repository, please cite our paper:
