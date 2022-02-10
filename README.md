@@ -50,7 +50,7 @@ AskReddit,-0.07415413657149496,0.13052107711645367,0.05281928294403579,...
 ```
 
 ### Figure data
-The underlying data for all main text figures from the paper are available in `data/figure_data`.
+The underlying data for all main text figures from the paper are available in `data/figure_data`. Code to reproduce all figures is available in `full_code/commembed/plots`.
 
 ## Citation
 
